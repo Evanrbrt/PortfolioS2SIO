@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+		<link rel="stylesheet" href="style.css" />
+	<title>OKAZMOT</title>
+</head>
+	<body>
+	<div id="contener">
+		
+			<header>
+			
+				<h1>OKAZMOT</h1>
+				<p class="nom">
+				Votre partenaire moto
+				</p>
+		
+			</header>	
+		<div id="intro">
+			<div id="texteintro">
+					<div id="motoimg">
+						<img src="/home/vchigot/Bureau/cours/motosite/photomoto/moto1modif.png" alt="exemple" width="%" height="%"/>
+					</div>
+				<div id="contener2">
+					<div id="texte">
+					<p id="align">
+						<br><br>Depuis 1986 , nous vous proposons des motos d'occasion. Elles sont toutes garanties 6 mois de base avec possibilité d'une extension à 1 an payante.
+						
+						<br>Nous avons à coeur de tester tous les modèles repris de A à Z. Ne nous en veuillez pas trop si on vous refuse votre ancienne moto !
+						<br>Nous voulons être certains que les motos que nous vous vendons sont en parfait état et nous préférons perdre une vente que faillir à ce principe !
+						<br><br>C'est notre label qualité, notre spot ! 
+						<br>
+					</p>
+					</div>	
+					
+					
+					<div id="exemple">
+						<a href="/home/vchigot/Bureau/cours/motosite/motosite2"> <img src="/home/vchigot/Bureau/cours/motosite/photomoto/exemple.png" alt="exemple" width="" height=""/>
+						</a>
+					</div>
+				</div>
+			</div>
+	
+			
+		</div>
+	</div>
+	
+		<footer>
+			<br>
+			Magasin Okazmot, 12 rue du Slick, 51100 REIMS 📞 03.26.12.34.56
+			<br><a href="/home/vchigot/Bureau/cours/motosite/motosite3"><h5>Nous contacter !</h5></a> <br> 
+		</footer>	
+		
+		
+		
+	</body>
+</html>
+
+
+
