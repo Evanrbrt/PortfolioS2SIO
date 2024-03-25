@@ -1,0 +1,176 @@
+body {
+	background: linear-gradient(-45deg, #141414, #302b2d, #d82020, #cf1764);
+	background-size: 600% 600%;
+	width: auto;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+  
+
+
+.txt-titre {
+    color: white;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+	padding-top: 180px;
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 2px;
+	border: 1px solid;
+	border-color: #d4aeff;
+
+}
+
+.test{
+
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 2px;
+	border: 1px solid;
+	border-color: #d4aeff;
+	justify-content: left;
+	display: flex;
+	font-size: 20px;
+
+
+}
+
+.vide{
+	padding-top: 20px;
+}
+
+.navbar{
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	
+}
+.navbar a{
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+
+.txt-accueil {
+	color: white;
+	font-size: 25px;
+	display: flex;
+    justify-content: center;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	height: auto;
+	padding-bottom: 5px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 20px;
+	border: 3px solid;
+	border-color: #d4aeff;
+	padding-top: 35px;
+	
+	
+
+}
+
+
+.time{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 48px;
+	
+	
+}
+
+
+
+#tableau {
+    margin-left: 40px; /* Ajoute de l'espace à gauche du tableau */
+}
+
+
+
+p {
+	color: white;
+	font-size: 25px;
+    justify-content: center;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+
+}
+
+
+
+div {
+    width: auto;
+    height: 120px;
+}
+
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 100vw;
+}
+.flex2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	top: 300px;
+	position: relative;
+	
+	
+	
+}
+
+
+footer{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top:20px;
+}
+
+
+
+
+	table, caption, th, td {
+	border: 2px solid skyblue;
+	border-collapse: collapse;
+	
+
+	}
+
+
+	caption, th, td {
+	padding: 8px;
+	box-shadow: 1px 2px 8px 6px white; /*cette ligne sert à effet de lueurs blanche*/
+	}
+	
+	caption {	
+	background-color: lightgrey;
+	
+	}
+	
+	th {
+	background-color: blue;
+	}
+	
+	td {
+	background-color: lightblue;
+	}

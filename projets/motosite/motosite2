@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+		<link rel="stylesheet" href="style.css" />
+	<title>OKAZMOT</title>
+
+</head>
+	<body>
+	
+		<div id="contener">
+		
+			<header>	
+					<h1>OKAZMOT</h1>
+					<p class="nom">
+					Votre partenaire moto
+					</p>
+			</header>	
+		
+		
+			<div id="intro">			
+				<br><br>
+				<a href="/home/vchigot/Bureau/cours/motosite/motosite1"><p id="accueil">Retour à la page d'accueil</p> </a>
+				<br>
+				<div id="contener3">
+				
+				
+					<div id="img1">
+						<img src="/home/vchigot/Bureau/cours/motosite/photomoto/moto2.jpg" alt="exemple"  width="%" />
+						<p> KAWASAKI Z 750 2008 - 4700€ </p>
+					</div>
+					
+					
+					<div id="img2">   
+				   	<img src="/home/vchigot/Bureau/cours/motosite/photomoto/moto3.jpg" alt="exemple" width="%" />
+				   	<p> MASH Seventy Five 325 neuve de 2014 - 1600€ </p>
+					</div>
+						
+				</div>		
+					
+					
+				<div id="contener4">
+					<div id="img3">   
+				   	<img src="/home/vchigot/Bureau/cours/motosite/photomoto/moto4.jpg" alt="exemple" width="%"/>
+				   	<p> QIWQIQI Vista 125 2006 - 1100€ </p>
+				   </div>
+				   
+				   
+				   <div id="img4">
+				   	<img src="/home/vchigot/Bureau/cours/motosite/photomoto/moto5.jpg" alt="exemple" width="%"/>
+				   	<p> KAWASAKI Z 1000 2010 - 7400€</p>
+	  				</div>
+	  				
+	  			</div>
+	  			
+	  			
+	  		</div>
+  				
+  		</div>
+   
+ 
+ 	  
+ 	  
+   <footer>
+		<br>
+		Magasin Okazmot , 12 rue de slick , 51100 REIMS 📞 03.26.12.34.56
+		<br><a href="/home/vchigot/Bureau/cours/motosite/motosite3"><h5>Nous contacter !</h5></a> <br> 
+	</footer>
+
+	</body>
+</html>

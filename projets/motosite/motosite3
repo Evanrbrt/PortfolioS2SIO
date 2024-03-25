@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+	<link rel="stylesheet" href="style.css" />
+<title>OKAZMOT</title>
+
+</head>
+	<body>
+	
+		<div id="contener">
+		
+			<header>	
+					<h1>OKAZMOT</h1>
+					<p class="nom">
+					Votre partenaire moto
+					</p>
+			</header>	
+			
+					
+			<div id="intro2">
+
+
+								
+				<div id="info">
+					<div id="1"><label for="Nom">Nom: </label></div>
+					<div id="2"><label for="Prénom">Prénom : </label></div>
+					<div id="3"><label for="Mail">Mail : </label></div>
+					<div id="4"><label for="Sujet">Sujet : </label></div>
+					<div id="5"><label for="Message">Message : </label></div>
+				</div>
+				
+				
+				
+				<div id="infoinput">
+					<input type="text" id="Nom" name="Nom" required minlength="4" maxlength="50" size="20"><br>
+						<input type="text" id="Prénom" name="Prénom" required minlength="4" maxlength="50" size="20"> <br>
+							<input type="text" id="Mail" name="Mail" required minlength="4" maxlength="50" size="20"> <br>
+						<input type="text" id="Sujet" name="Sujet" required minlength="4" maxlength="50" size="20"> <br>
+					<input type="text" id="Message" name="Message" required minlength="4" maxlength="150" size="100"> <br>
+					<div id="send"> <a href="/home/vchigot/Bureau/cours/motosite/motosite4">Envoyer </a> </div>
+					
+				</div>
+				
+			
+				<br>
+				<br>
+			</div>
+	
+		</div>
+
+
+	<footer>
+		Magasin Okazmot , 12 rue de slick , 51100 REIMS 📞 03.26.12.34.56
+		<br>
+	
+		<a href="/home/vchigot/Bureau/cours/motosite/motosite1"><h5>Retour à la page d'accueil</h5> </a>
+		
+	</footer> 
+	
+	
+	</body>
+</html>
+
+
